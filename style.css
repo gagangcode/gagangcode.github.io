@@ -29,17 +29,6 @@ ul li a{
 	border: 1px solid transparent;
 	transition: 0.7s ease;
 }
-
-ul li a:hover{
-background-color: #fff;
-color: #808000;
-}
-  
-  ul li.active a{
-background-color: #fff;
-color: #ff00ff;
-  }
-
   .logo img{
 float: left;
 width: 150 px;
